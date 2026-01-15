@@ -111,7 +111,14 @@ nav ul a{
   margin-bottom: 30px;
   
 }
-
+.products .btn-more{
+  text-align: end;
+  color: #E02C6D;
+  font-weight: bold;
+  margin-right: -15px;
+  margin-top: 50px;
+  
+}
 .cards{
  display: grid;
  grid-template-columns: repeat(3, 1fr);
@@ -205,6 +212,14 @@ nav ul a{
   grid-template-columns: 1fr;
   justify-content: center;
   
+  
+}
+.products .btn-more{
+  text-align: end;
+  color: #E02C6D;
+  font-weight: bold;
+  margin-right: 80px;
+  margin-top: 20px;
   
 }
 .card{

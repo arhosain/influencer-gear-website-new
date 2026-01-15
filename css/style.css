@@ -81,6 +81,29 @@ nav ul a{
   padding: 15px;
 }
 
+/* main section  */
+
+.brand-section{
+  max-width: 1110px;
+  margin: 0 auto;
+  gap: 60px;
+  align-items: center;
+  margin-top: 70px;
+  padding: 43px;
+  justify-content: center;
+    box-shadow: 0 0 5px rgb(230, 230, 230);
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 

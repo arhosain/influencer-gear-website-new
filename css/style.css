@@ -157,7 +157,27 @@ nav ul a{
   color: #787885;
 }
 
+/* featured section  */
 
+.featured {
+  max-width: 1110px;
+  margin: 0 auto;
+  gap: 90px;
+  margin-top: 100px;
+  align-items: center;
+  margin-bottom:100px ;
+}
+.featured p{
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 16px 0px 16px 0px;
+  color: #6C6C6C;
+}
+.featured h2{
+  font-size: 2.3rem;
+  font-weight: bold;
+  color: #0A0826;
+}
 
 
 
@@ -227,6 +247,20 @@ nav ul a{
   margin: 0 auto;
   
   
+}
+
+.featured{
+  flex-direction: column-reverse;
+  text-align: center;
+}
+.btn-join{
+  border-radius: 0px;
+  margin-top: 40px;
+  padding: 15px 40px;
+  
+}
+.featured-img{
+  margin-top: -50px;
 }
 
 

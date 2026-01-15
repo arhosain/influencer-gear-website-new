@@ -180,6 +180,47 @@ nav ul a{
 }
 
 
+footer {
+  background-color: #0A0826;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer-content{
+  color: white;
+}
+.footer-content h3{
+  color: white;
+  font-size: 1.3rem;
+}
+.footer-content p{
+  color: #D9DBE1;
+  font-size: 0.9rem ;
+  font-weight: 500;
+  margin: 3px 0px 3px 0px ;
+}
+.fa-brands{
+  color: white;
+  
+}
+.footer-social div{
+  color: white;
+  background-color: rgba(255, 255, 255, 0.145);
+  height: 30px;
+  width: 30px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.footer-social{
+  gap: 16px;
+  justify-content: center;
+  margin-top: 17px;
+}
+
+
+
 
 
 
